@@ -1,3 +1,3 @@
 # Kropp
 
-Адаптивный лендинг с современным дизайном и версткой на HTML и CSS.
+Responsive landing page with modern design and layout using HTML and CSS.
